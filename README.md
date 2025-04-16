@@ -21,4 +21,15 @@
   <img src="https://img.shields.io/github/downloads/DexTheSillyCat/DTSCRCM/total" alt="Total Downloads">
   <img src="https://img.shields.io/github/commits-since/DexTheSillyCat/DTSCRCM/latest" alt="Commits Since Last Release">
   <img src="https://img.shields.io/github/release/DexTheSillyCat/DTSCRCM" alt="Latest Release">
+  <h4>This multitools is aimed to provide useful tweaks for a user, and other optional/needed stuff.</h4>
 </div>
+.  
+
+## Getting Started
+Directions.
+
+## Disclaimers
+Disclaimers.
+
+### Repobeats stats
+Repobeats status.
