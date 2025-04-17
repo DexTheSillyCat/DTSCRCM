@@ -29,21 +29,32 @@
 Directions.
 
 ## Disclaimers
-
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
 > [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
+> Right now, this Recoded Multitools is in the planning stage right now. Don't expect the multitools to release in beta, alpha, or prerelase in a week or two.
+> > The expected wait time is somewhere one week to a month.
+>
+> ### Currently planned:
+> #### Registry tweaks.
+> - Reg tweaks that helps the user for easier management, and debugging.
+> #### Layout:
+> [Reg location]  
+> [Reg Description]  
+> [ Currently Set value ]  
+> [ After appling tweak value ]  
+>   
+> - Apply Default tweak
+> > Very self explainitory, applies the tweak.
+>
+> - Revert Default Value
+> > Self explanitory, changes registry key value back to default.
+>
+> - Set Custom Value
+> > For advanced users. This let them apply a custom registry value, DONT DO THIS IF YOU DONT KNOW WHAT YOU ARE DOING!!
+>
+> - Back
+> > Self explanitory.
+>
+> ..thats all thats planned.
 
 ### Repobeats stats
 Repobeats status.
